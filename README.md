@@ -1,4 +1,4 @@
-**XPLOR NITR: Campus Quest VR**
+# **XPLOR NITR: Campus Quest VR**
 ![nit-tour-2-wx7maiy6](https://github.com/user-attachments/assets/9d4d7eff-5eda-4feb-bbfd-92e2ac24dda4)
 
 Welcome to **NITR Explorer**, an immersive VR game designed to explore the campus in a unique and interactive way.
