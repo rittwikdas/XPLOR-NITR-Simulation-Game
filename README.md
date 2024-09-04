@@ -26,3 +26,8 @@ Download the 3D model files used in the game:
 Get the Campus Quest VR Files here:  
 [![VR Files](https://img.shields.io/badge/Download-VR%20Files-yellow.svg)](https://drive.google.com/file/d/18jhj2j7Ttd4kNVeXXPiwjPznPsKwalx3/view)  
 [Download Campus Quest VR Files](https://drive.google.com/file/d/18jhj2j7Ttd4kNVeXXPiwjPznPsKwalx3/view)
+
+## 🛠️ **Metaverse Codebase Files**
+Get the Metaverse Codebase Files here:  
+[![Metaverse Codebase Files](https://img.shields.io/badge/Download-Metaverse%20Files-red.svg)](https://drive.google.com/file/d/1t9ZpBxgWuf0OrvJkNVMibGcR7DfSFXKt/view)  
+[Download Metaverse Codebase Files](https://drive.google.com/file/d/1t9ZpBxgWuf0OrvJkNVMibGcR7DfSFXKt/view)
